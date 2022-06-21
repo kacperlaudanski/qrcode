@@ -1,0 +1,26 @@
+body
+{
+  background-color:hsl(212, 45%, 89%);
+  position:relative;
+  font-family: 'Outfit', sans-serif;
+}
+
+.main
+{
+  background-color:hsl(0, 0%, 100%);
+  width:300px;
+  height:500px;
+  padding:20px;
+  border-radius:10px;
+  position:absolute;
+  left:570px;
+  top:110px;
+  text-align:center;
+}
+
+.qr
+{
+  width:300px;
+  height:300px;
+  border-radius: 5px;
+}
